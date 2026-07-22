@@ -1,4 +1,6 @@
 {
-  "shards": 16,
-  "updatedAt": "2026-07-22T10:45:35.280Z"
+  "shards": 14,
+  "updatedAt": "2026-07-22T10:45:35.987Z",
+  "crawlOffset": 8,
+  "entriesApprox": 5
 }
